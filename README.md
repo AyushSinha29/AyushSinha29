@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Machine Learning projects
 - 🌱 I’m currently learning Python , Machine Learning , Data Structures
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
+- 📫 How to reach to me: [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
 - [My Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
 - 😄 Pronouns: He/Him
 
