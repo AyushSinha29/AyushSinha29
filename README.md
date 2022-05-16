@@ -8,7 +8,7 @@
 - Trying to sharpen my coding skills at [Leetcode](https://leetcode.com/sinhayush29/)
 - [Gmail](https://sinhaayush0829@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
-- [My Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
+- [Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
 - 😄 Pronouns: He/Him
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
