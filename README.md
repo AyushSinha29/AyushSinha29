@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning projects
-- 🌱 I’m currently learning Python , Machine Learning , Data Structures
+- 🔭 I’m currently working on Machine Learning and Deep Learning projects
+- 🌱 I’m currently learning Python, C++, C , Machine Learning , Data Structures, Data Science
 - 📫 How to reach to me: 
 - Trying to sharpen my coding skills at [Leetcode](https://leetcode.com/sinhayush29/)
 - [Gmail](https://sinhaayush0829@gmail.com)
@@ -14,3 +14,5 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+- Learner forever! 😄 
