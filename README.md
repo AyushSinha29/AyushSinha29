@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Machine Learning and Deep Learning projects
 - 🌱 I’m currently learning Python, C++, C , Machine Learning , Data Structures, Data Science
 - 📫 How to reach to me: 
-- Trying to sharpen my coding skills at [Leetcode](https://leetcode.com/sinhayush29/)
+- Problem solving at [Leetcode](https://leetcode.com/sinhayush29/)
 - [Gmail](https://sinhaayush0829@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
 - [Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
