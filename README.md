@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning projects
-- 🌱 I’m currently learning Python, C++, C , Machine Learning , Data Structures, Data Science
+- 🔭 Working on Machine Learning and Deep Learning projects
+- 🌱 Learning Python, C++, C , Machine Learning , Computer Vision, NLP Data Structures, Data Science
 - 📫 How to reach to me: 
 - Problem solving at [Leetcode](https://leetcode.com/sinhayush29/)
 - [Gmail](https://sinhaayush0829@gmail.com)
