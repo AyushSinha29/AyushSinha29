@@ -6,7 +6,7 @@
 - 🌱 Learning Python, C++, C , Machine Learning , Computer Vision, NLP Data Structures, Data Science
 - 📫 How to reach to me: 
 - Problem solving at [Leetcode](https://leetcode.com/sinhayush29/)
-- [Resume](https://drive.google.com/file/d/1efhjP4vhgUdUyu26gAbpcPGTdSlX91xI/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1HyH6BpF6Z_-47826ijA00HVqtjrOfvJU/view?usp=sharing)
 - [Gmail](https://sinhaayush0829@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ayush-sinha-042a69192/)
 - [Portfolio Website](https://sinhaayush0829.wixsite.com/thatsme)
